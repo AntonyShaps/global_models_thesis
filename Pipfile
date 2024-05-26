@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 pandas = "*"
 binance-historical-data = "*"
+matplotlib = "*"
+seaborn = "*"
+statsmodels = "*"
 
 [dev-packages]
 
